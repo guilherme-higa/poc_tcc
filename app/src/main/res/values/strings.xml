@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">ProjetoTcc</string>
+    <string name="btn_login">Log In</string>
+    <string name="login">Email address or phone number</string>
+    <string name="digit_password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="fragment_home">TCC for puc</string>
+
 </resources>
